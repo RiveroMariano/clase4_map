@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    
+}
+
+body{
+    color: blue;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+li{
+    margin-left: 100px;
+}
+
+
+
+
+
+
